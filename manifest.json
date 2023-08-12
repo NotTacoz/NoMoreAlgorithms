@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "No More Algorithms",
+    "version": "1.0",
+    "description": "Remove algorithms and other unwanted content.",
+    "author": "Thomas H",
+
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "No More Algorithms"
+    }
+  }
